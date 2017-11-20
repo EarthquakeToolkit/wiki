@@ -1,1 +1,1 @@
-# wiki
+# Earthquake Toolkit Wiki
