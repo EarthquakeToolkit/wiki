@@ -6,3 +6,4 @@
 ## Institutes
 - [Ushahidi](https://www.ushahidi.com/)
 - [Kathmandu Living Labs](http://www.kathmandulivinglabs.org/)
+- [Youth Mappers](http://www.youthmappers.org/)
