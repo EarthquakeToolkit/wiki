@@ -10,6 +10,7 @@ Earthquake Toolkit is a [progressive web application (PWA)](https://developers.g
 - Local communication with WiFi
 
 # Existing Solutions
+- [Quake Hunter](https://github.com/NASAWorldWindResearch/Quake-Hunter)
 - [Google Crisis Response](https://crisisresponse.google/)
 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/)
 - [Serval Project](http://servalproject.org/) (local communication with WiFi)
