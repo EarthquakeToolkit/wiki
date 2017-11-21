@@ -11,7 +11,6 @@ Earthquake Toolkit is a [progressive web application (PWA)](https://developers.g
 
 # Existing Solutions
 - [The Serval Project](http://servalproject.org/) (local communication with WiFi)
-- 
 
 # Earthquakes
 - [Kermanshah 2017](Kermanshah2017.md)
