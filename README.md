@@ -14,9 +14,6 @@ Earthquake Toolkit is a [progressive web application (PWA)](https://developers.g
 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/)
 - [Serval Project](http://servalproject.org/) (local communication with WiFi)
 
-# Frontend
-- [Vue.js](Vuejs.md)
-
 # Earthquakes
 - [Kermanshah 2017](Kermanshah2017.md)
 - [Mexico 2017](Mexico2017.md)
