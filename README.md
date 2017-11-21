@@ -14,4 +14,5 @@ Earthquake Toolkit is a [progressive web application (PWA)](https://developers.g
 
 # Earthquakes
 - [Kermanshah 2017](Kermanshah2017.md)
+- [Mexico 2017](Mexico2017.md)
 - [Nepal 2015](Nepal2015.md)
