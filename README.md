@@ -12,4 +12,4 @@ Earthquake Toolkit is a [progressive web application (PWA)](https://developers.g
 # Existing Solutions
 
 # Earthquakes
-- Kermanshah 2017
+- [Kermanshah 2017](Kemanshah2017)
