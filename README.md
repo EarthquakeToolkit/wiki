@@ -8,3 +8,8 @@ Earthquake Toolkit is a [progressive web application (PWA)](https://developers.g
 - Path planning for aid convoys
 - Collecting help requests
 - Local communication with WiFi
+
+# Existing Solutions
+
+# Earthquakes
+- Kermanshah 2017
